@@ -1,0 +1,17 @@
+http://192.168.209.4/dvwa/
+http://192.168.209.4/dvwa/instructions.php
+http://192.168.209.4/dvwa/setup.php
+http://192.168.209.4/dvwa/vulnerabilities/brute/
+http://192.168.209.4/dvwa/vulnerabilities/exec/
+http://192.168.209.4/dvwa/vulnerabilities/csrf/
+http://192.168.209.4/dvwa/vulnerabilities/fi/?page=include.php
+http://192.168.209.4/dvwa/vulnerabilities/sqli/
+http://192.168.209.4/dvwa/vulnerabilities/sqli_blind/
+http://192.168.209.4/dvwa/vulnerabilities/upload/
+http://192.168.209.4/dvwa/vulnerabilities/xss_r/
+http://192.168.209.4/dvwa/vulnerabilities/xss_s/
+http://192.168.209.4/dvwa/security.php
+http://192.168.209.4/dvwa/phpinfo.php
+http://192.168.209.4/dvwa/about.php
+http://192.168.209.4/dvwa/logout.php
+http://hiderefer.com/?http://www.apachefriends.org/en/xampp.html
