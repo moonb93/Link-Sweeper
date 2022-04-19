@@ -1,0 +1,76 @@
+http://192.168.209.4/dvwa/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Welcome
+http://192.168.209.4/dvwa/instructions.php
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Instructions
+http://192.168.209.4/dvwa/setup.php
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Setup
+field type is submit and field name is create_db
+http://192.168.209.4/dvwa/vulnerabilities/brute/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: Brute Force
+field type is text and field name is username
+field type is password and field name is password
+field type is submit and field name is Login
+http://192.168.209.4/dvwa/vulnerabilities/exec/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: Brute Force
+field type is text and field name is ip
+field type is submit and field name is submit
+http://192.168.209.4/dvwa/vulnerabilities/csrf/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: Cross Site Request Forgery (CSRF)
+field type is password and field name is password_current
+field type is password and field name is password_new
+field type is password and field name is password_conf
+field type is submit and field name is Change
+http://192.168.209.4/dvwa/vulnerabilities/fi/?page=include.php
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: File Inclusion
+http://192.168.209.4/dvwa/vulnerabilities/sqli/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: SQL Injection
+field type is text and field name is id
+field type is submit and field name is Submit
+http://192.168.209.4/dvwa/vulnerabilities/sqli_blind/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: SQL Injection (Blind)
+field type is text and field name is id
+field type is submit and field name is Submit
+http://192.168.209.4/dvwa/vulnerabilities/upload/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: File Upload
+field type is hidden and field name is MAX_FILE_SIZE
+field type is file and field name is uploaded
+field type is submit and field name is Upload
+http://192.168.209.4/dvwa/vulnerabilities/xss_r/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: Reflected Cross Site Scripting (XSS)
+field type is text and field name is name
+field type is submit and field name is 
+http://192.168.209.4/dvwa/vulnerabilities/xss_s/
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: Vulnerability: Stored Cross Site Scripting (XSS)
+field type is text and field name is txtName
+field type is submit and field name is btnSign
+http://192.168.209.4/dvwa/security.php
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: DVWA Security
+field type is submit and field name is seclev_submit
+http://192.168.209.4/dvwa/phpinfo.php
+
+phpinfo()
+http://192.168.209.4/dvwa/about.php
+
+Damn Vulnerable Web App (DVWA) v1.0.7 :: About
+http://192.168.209.4/dvwa/logout.php
+
+Damn Vulnerable Web App (DVWA) - Login
+field type is text and field name is username
+field type is password and field name is password
+field type is submit and field name is Login
+http://hiderefer.com/?http://www.apachefriends.org/en/xampp.html
+
+HideRefer.com Anonym Link
